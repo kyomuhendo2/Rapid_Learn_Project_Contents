@@ -1,0 +1,15 @@
+#nav-table{
+    width: 100%;
+} 
+#nav-table, td{
+    border: 3px black solid;
+    border-collapse: collapse;
+    /*text-align: center;*/
+}
+#profile-table{
+    width: 100%;
+}
+#profile-table, td{
+    border: 3px black solid;
+    border-collapse: collapse;
+}
